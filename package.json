@@ -1,0 +1,23 @@
+{
+  "name": "wordguess-cli",
+  "version": "1.0.0",
+  "description": "command line word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomamanomama/wordguess-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nomamanomama/wordguess-cli/issues"
+  },
+  "homepage": "https://github.com/nomamanomama/wordguess-cli#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
